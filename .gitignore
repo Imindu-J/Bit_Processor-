@@ -1,0 +1,24 @@
+# Xilinx Vivado temporary files
+*.jou
+*.log
+*.str
+*.zip
+*.tmp
+*.bak
+*.backup
+*.wdb
+*.xmsgs
+
+
+# Vivado generated folders
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+
+# OS files
+.DS_Store
+Thumbs.db
