@@ -9,6 +9,9 @@
 *.wdb
 *.xmsgs
 
+# Java crash dump files
+hs_err_pid*.dmp
+
 
 # Vivado generated folders
 .Xil/
